@@ -5,4 +5,5 @@
 2. Deliver fast and relevant feedbacks to the squad by automating test scenarios using the Smoke test strategy.
 
 **Design patterns:** Page objects, Page factory and Fluent pages.
+
 **Technologies:** Java, Selenium Webdriver, Junit.
