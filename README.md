@@ -17,7 +17,7 @@
 **Pre-requisitos:**
 1. Navegador Chrome instalado - https://www.google.com/chrome/;
 2. IntelliJ IDEA Community Edition instalado - https://www.jetbrains.com/idea/download/?section=windows;
-3. Java SDK 23 instalado - https://www.oracle.com/java/technologies/downloads/;
+3. Java SDK 22 instalado - https://www.oracle.com/java/technologies/downloads/;
 4. Git instalado - https://git-scm.com/downloads.
 
 **Executando o projeto:**
@@ -55,7 +55,7 @@
 **Pre-requirements:**
 1. Chrome browser installed - https://www.google.com/chrome/;
 2. IntelliJ IDEA Community Edition installed - https://www.jetbrains.com/idea/download/?section=windows;
-3. Java SDK 23 installed - https://www.oracle.com/java/technologies/downloads/;
+3. Java SDK 22 installed - https://www.oracle.com/java/technologies/downloads/;
 4. Git installed - https://git-scm.com/downloads.
 
 **Running the project:**
